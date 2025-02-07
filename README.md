@@ -1,7 +1,7 @@
 📱 iOS App Developer - AWWARDS Winner 🏆
 
 📊 iOS App Development:
-Bringing 2+ years of dedicated experience, I specialize in crafting cutting-edge mobile apps exclusively for the iOS platform. As a passionate iOS enthusiast, I strive to deliver a seamless and immersive user experience for your digital ventures.
+Bringing 3+ years of dedicated experience, I specialize in crafting cutting-edge mobile apps exclusively for the iOS platform. As a passionate iOS enthusiast, I strive to deliver a seamless and immersive user experience for your digital ventures.
 
 🍏 Swift and Swift-UI Expertise:
 Excelling in building native applications for Apple devices using Swift and Swift-UI, I meticulously adhere to Apple's design guidelines. This ensures the creation of engaging and user-friendly interfaces that leverage the full potential of the iOS ecosystem.
